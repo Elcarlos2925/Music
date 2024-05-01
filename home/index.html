@@ -4,11 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="stylesheet" href="../static/css/bootstrap.css">
+    <link rel="stylesheet" href="../static/assets/fontawesome-free-6.5.1-web/css/all.css">
 </head>
 <body>
-        <img src="../static/assets/img/300 noches.jpeg" alt="" width="400px">
-        <audio autoplay controls>
-            <source src="../static/assets/Music/Belinda, Natanael Cano - 300 Noches (Letra) - Odilon Huamani.mp3">
-        </audio>
+    <img src="../static/assets/img/300 noches.jpeg" alt="" width="400px">
+    <audio id="song">
+        <source src="../static/assets/Music/Belinda, Natanael Cano - 300 Noches (Letra) - Odilon Huamani.mp3">
+    </audio>
+    <input type="range" value="0" id="progress-song" onclick="playInterval()">
+    <div class="controls-media">
+        <div><i class="fa-solid fa-backward"></i></div>
+        <div onclick="playPause()"><i class="fa-solid fa-play" id="ctrl-id"></i></div>
+        <div><i class="fa-solid fa-forward"></i></div>
+    </div>
+
+    <script src="../static/js/ctrl.js"></script>
 </body>
 </html>
