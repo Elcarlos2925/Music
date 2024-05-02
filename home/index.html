@@ -3,23 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="svg" href="../static/assets/icons/solid/house.svg">
     <title>Home</title>
     <link rel="stylesheet" href="../static/css/style.css">
     <link rel="stylesheet" href="../static/css/bootstrap.css">
     <link rel="stylesheet" href="../static/assets/fontawesome-free-6.5.1-web/css/all.css">
 </head>
 <body>
-    <img src="../static/assets/img/300 noches.jpeg" alt="" width="400px">
-    <audio id="song">
-        <source src="../static/assets/Music/Belinda, Natanael Cano - 300 Noches (Letra) - Odilon Huamani.mp3">
-    </audio>
-    <input type="range" value="0" id="progress-song" onclick="playInterval()">
-    <div class="controls-media">
-        <div><i class="fa-solid fa-backward"></i></div>
-        <div onclick="playPause()"><i class="fa-solid fa-play" id="ctrl-id"></i></div>
-        <div><i class="fa-solid fa-forward"></i></div>
+    <div class="song-ctrl">
+        <img src="../static/assets/img/300 noches.jpeg" alt="" class="img-song">
+        <div class="ctrl">
+            <h1 class="title">300 Noches</h1>
+            <p class="artist">Belinda, Natanael Cano</p>
+            <audio id="song">
+                <source src="../static/assets/Music/Belinda, Natanael Cano - 300 Noches (Letra) - Odilon Huamani.mp3" type="audio/mpeg">
+            </audio>
+            <div class="duration-progress">
+                <input type="range" value="0" id="progress-song" onclick="playInterval()" max="">
+                <div class="time-info">
+                    <span id="current-time">0:00</span>
+                    <span id="total-time">0:00</span>
+                </div>
+            </div>
+            <div class="controls-media">
+                <div class="backward"><i class="fa-solid fa-backward"></i></div>
+                <div onclick="playPause()" class="ctrl-id"><i class="fa-solid fa-play" id="ctrl-id"></i></div>
+                <div class="forward"><i class="fa-solid fa-forward"></i></div>
+            </div>
+        </div>
     </div>
-
-    <script src="../static/js/ctrl.js"></script>
 </body>
 </html>
+<script src="../static/js/ctrl.js"></script>
