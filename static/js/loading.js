@@ -8,7 +8,6 @@ function generateRandomNumber(){
     songListened.push(random)
     clearSongListened()
     reload()
-    return random
 }
 function backward() {
     if (songListened.length > 1) {
