@@ -50,3 +50,7 @@ function formatTime(seconds) {
     }
     return minutes + ":" + secs;
 }
+
+song.addEventListener("ended", function(){
+    forward()
+})

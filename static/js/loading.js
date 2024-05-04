@@ -1,7 +1,7 @@
 songListened = []
 let random
 
-function generateRandomNumber(){
+function forward(){
     do{
         random = Math.floor(Math.random() * 39)
     } while (songListened.includes(random))
@@ -15,8 +15,6 @@ function backward() {
         reload()
         clearSongListened()
         random = songListened[songListened.length - 1];
-    } else {
-        return null; // No hay números anteriores
     }
 }
 
@@ -53,5 +51,5 @@ function reload(){
   });
 }
 
-generateRandomNumber()
+forward()
 reload()
