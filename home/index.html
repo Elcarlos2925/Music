@@ -16,7 +16,7 @@
             <div class='ctrl'>
                 <div id="title"></div>
                 <div id="artist"></div>
-                <audio id='song'></audio>
+                <audio autoplay id='song'></audio>
                 <div class='duration-progress'>
                     <input type='range' value='0' id='progress-song' onclick='playInterval()' max=''>
                     <div class='time-info'>
@@ -25,9 +25,9 @@
                     </div>
                 </div>
                 <div class='controls-media'>
-                    <div class='backward'><i class='fa-solid fa-backward'></i></div>
-                    <div onclick='playPause()' class='ctrl-id'><i class='fa-solid fa-play' id='ctrl-id'></i></div>
-                    <div class='forward'><i class='fa-solid fa-forward'></i></div>
+                    <div class='backward' id='backward' onclick='backward()'><i class='fa-solid fa-backward'></i></div>
+                    <div onclick='playPause()' class='ctrl-id'><i class='fa-solid fa-pause' id='ctrl-id'></i></div>
+                    <div class='forward' id='forward' onclick='generateRandomNumber()'><i class='fa-solid fa-forward'></i></div>
                 </div>
             </div>
         </div>
