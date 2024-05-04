@@ -1,0 +1,282 @@
+[
+    {
+        "id" : "1",
+        "Title" : "300 Noches",
+        "Url" : "../static/assets/Music/300 Noches.mp3",
+        "Img" : "../static/assets/img/300 noches.jpeg",
+        "Artist" : "Natanael Cano, Belinda"
+    },
+    {
+        "id" : "2",
+        "Title" : "Y Que",
+        "Url" : "../static/assets/Music/Y Que.mp3",
+        "Img" : "../static/assets/img/Y que.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "3",
+        "Title" : "Golpes de la Vida",
+        "Url" : "../static/assets/Music/Golpes De La Vida.mp3",
+        "Img" : "../static/assets/img/Golpes de la Vida.jpeg",
+        "Artist" : "Natanael Cano, Ivonne Galaz"
+    },
+    {
+        "id" : "4",
+        "Title" : "Pal amor soy malo",
+        "Url" : "../static/assets/Music/Pal Amor Soy Malo.mp3",
+        "Img" : "../static/assets/img/Pal Amor Soy Malo.jpeg",
+        "Artist" : "Adrian L Santos, Oscar Maydon"
+    },
+    {
+        "id" : "5",
+        "Title" : "Pal amor soy malo",
+        "Url" : "../static/assets/Music/Aerolínea Carrillo.mp3",
+        "Img" : "../static/assets/img/Aerolínea Carrillo.jpeg",
+        "Artist" : "T3R Elemento, Gerardo Ortiz"
+    },
+    {
+        "id" : "6",
+        "Title" : "Carlitos",
+        "Url" : "../static/assets/Music/Carlitos.mp3",
+        "Img" : "../static/assets/img/A mis 20.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "7",
+        "Title" : "Cologne",
+        "Url" : "../static/assets/Music/Cologne.mp3",
+        "Img" : "../static/assets/img/Cologne.jpeg",
+        "Artist" : "Junior H"
+    },
+    {
+        "id" : "8",
+        "Title" : "Como Jordan",
+        "Url" : "../static/assets/Music/Como Jordan.mp3",
+        "Img" : "../static/assets/img/Como Jordan.jpeg",
+        "Artist" : "Junior H"
+    },
+    {
+        "id" : "9",
+        "Title" : "Fuentes De Ortiz",
+        "Url" : "../static/assets/Music/Fuentes De Ortiz.mp3",
+        "Img" : "../static/assets/img/Fuentes De Ortiz.jpeg",
+        "Artist" : "Ed Maverick"
+    },
+    {
+        "id" : "10",
+        "Title" : "Lou Lou",
+        "Url" : "../static/assets/Music/Lou Lou.mp3",
+        "Img" : "../static/assets/img/Lou Lou.jpeg",
+        "Artist" : "Gabito Ballesteros, Natanael Cano"
+    },
+    {
+        "id" : "11",
+        "Title" : "El De Los Lentes Gucci",
+        "Url" : "../static/assets/Music/El De Los Lentes Gucci.mp3",
+        "Img" : "../static/assets/img/El De Los Lentes Gucci.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "12",
+        "Title" : "El Mini Barbie",
+        "Url" : "../static/assets/Music/El Mini Barbie.mp3",
+        "Img" : "../static/assets/img/El Mini Barbie.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "13",
+        "Title" : "Entre las de 20",
+        "Url" : "../static/assets/Music/Entre las de 20.mp3",
+        "Img" : "../static/assets/img/Entre las de 20.jpeg",
+        "Artist" : "Natanael Cano, Bizarrap"
+    },
+    {
+        "id" : "14",
+        "Title" : "Gracias",
+        "Url" : "../static/assets/Music/Gracias.mp3",
+        "Img" : "../static/assets/img/Gracias.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "15",
+        "Title" : "Disfruto Lo Malo",
+        "Url" : "../static/assets/Music/Disfruto Lo Malo.mp3",
+        "Img" : "../static/assets/img/Disfruto Lo Malo.jpeg",
+        "Artist" : "Natanael Cano, Junior H"
+    },
+    {
+        "id" : "16",
+        "Title" : "Gracias A Dios",
+        "Url" : "../static/assets/Music/Gracias A Dios.mp3",
+        "Img" : "../static/assets/img/NataKong.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "17",
+        "Title" : "La People",
+        "Url" : "../static/assets/Music/La People.mp3",
+        "Img" : "../static/assets/img/La People.jpeg",
+        "Artist" : "Peso Pluma, Tito Double P, Joel De La P"
+    },
+    {
+        "id" : "18",
+        "Title" : "Bling Bling",
+        "Url" : "../static/assets/Music/Bling Bling.mp3",
+        "Img" : "../static/assets/img/Bling Bling.jpeg",
+        "Artist" : "Maluma, Octavio Cuadras, Grupo Marca Registrada"
+    },
+    {
+        "id" : "19",
+        "Title" : "Mochila",
+        "Url" : "../static/assets/Music/Mochila.mp3",
+        "Img" : "../static/assets/img/NataKong.jpeg",
+        "Artist" : "Natanael Cano, Junior H"
+    },
+    {
+        "id" : "20",
+        "Title" : "Bzrp Sessions, Vol.59",
+        "Url" : "../static/assets/Music/Bzrp Sessions, Vol.59.mp3",
+        "Img" : "../static/assets/img/Bzrp Sessions, Vol.59.jpeg",
+        "Artist" : "Natanael Cano, Bizarrap"
+    },
+    {
+        "id" : "21",
+        "Title" : "Arriba",
+        "Url" : "../static/assets/Music/Arriba.mp3",
+        "Img" : "../static/assets/img/Arriba.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "22",
+        "Title" : "Brillo",
+        "Url" : "../static/assets/Music/Brillo.mp3",
+        "Img" : "../static/assets/img/NataKong.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "23",
+        "Title" : "Diamantes",
+        "Url" : "../static/assets/Music/Diamantes.mp3",
+        "Img" : "../static/assets/img/A mis 20.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "24",
+        "Title" : "Mi Bello Angel",
+        "Url" : "../static/assets/Music/Mi Bello Angel.mp3",
+        "Img" : "../static/assets/img/Mi Bello Angel.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "25",
+        "Title" : "O Me Voy O Te Vas",
+        "Url" : "../static/assets/Music/O Me Voy O Te Vas.mp3",
+        "Img" : "../static/assets/img/O Me Voy O Te Vas.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "26",
+        "Title" : "Selfies",
+        "Url" : "../static/assets/Music/Selfies.mp3",
+        "Img" : "../static/assets/img/Selfies.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "27",
+        "Title" : "Como Es Arriba Es Abajo",
+        "Url" : "../static/assets/Music/Como Es Arriba Es Abajo.mp3",
+        "Img" : "../static/assets/img/Como Es Arriba Es Abajo.jpeg",
+        "Artist" : "Natanael Cano, Dan Sanchez"
+    },
+    {
+        "id" : "28",
+        "Title" : "NataAoki",
+        "Url" : "../static/assets/Music/NataAoki.mp3",
+        "Img" : "../static/assets/img/NataKong.jpeg",
+        "Artist" : "Natanael Cano, Steve Aoki"
+    },
+    {
+        "id" : "29",
+        "Title" : "Que Me Importa",
+        "Url" : "../static/assets/Music/Que Me Importa.mp3",
+        "Img" : "../static/assets/img/Que Me Importa.jpeg",
+        "Artist" : "Natanael Cano, Victor Cibrian"
+    },
+    {
+        "id" : "30",
+        "Title" : "Madonna",
+        "Url" : "../static/assets/Music/Madonna.mp3",
+        "Img" : "../static/assets/img/Madonna.jpeg",
+        "Artist" : "Natanael Cano, Oscar Maydon"
+    },
+    {
+        "id" : "31",
+        "Title" : "Ojitos de Miel",
+        "Url" : "../static/assets/Music/Ojitos de Miel.mp3",
+        "Img" : "../static/assets/img/Ojitos de Miel.jpeg",
+        "Artist" : "T3R Elemento"
+    },
+    {
+        "id" : "32",
+        "Title" : "Bzrp Sessions, Vol.55",
+        "Url" : "../static/assets/Music/Bzrp Sessions, Vol.55.mp3",
+        "Img" : "../static/assets/img/Bzrp Sessions, Vol.55.jpeg",
+        "Artist" : "Peso Pluma, Bizarrap"
+    },
+    {
+        "id" : "33",
+        "Title" : "El Rápido",
+        "Url" : "../static/assets/Music/El Rápido.mp3",
+        "Img" : "../static/assets/img/El Rápido.jpeg",
+        "Artist" : "Peso Pluma"
+    },
+    {
+        "id" : "34",
+        "Title" : "Solamente Dios",
+        "Url" : "../static/assets/Music/Solamente Dios.mp3",
+        "Img" : "../static/assets/img/Solamente Dios.jpeg",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "35",
+        "Title" : "Corazón de Piedra",
+        "Url" : "../static/assets/Music/Corazón de Piedra.mp3",
+        "Img" : "../static/assets/img/Corazón de Piedra.jpeg",
+        "Artist" : "Xavi"
+    },
+    {
+        "id" : "36",
+        "Title" : "La Diabla",
+        "Url" : "../static/assets/Music/La Diabla.mp3",
+        "Img" : "../static/assets/img/La Diabla.jpeg",
+        "Artist" : "Xavi"
+    },
+    {
+        "id" : "37",
+        "Title" : "La Víctima",
+        "Url" : "../static/assets/Music/La Víctima.mp3",
+        "Img" : "../static/assets/img/La Víctima.jpeg",
+        "Artist" : "Xavi"
+    },
+    {
+        "id" : "38",
+        "Title" : "Poco a Poco",
+        "Url" : "../static/assets/Music/Poco a Poco.mp3",
+        "Img" : "../static/assets/img/Poco a Poco.jpeg",
+        "Artist" : "Xavi, Los Dareyes De La Sierra"
+    },
+    {
+        "id" : "39",
+        "Title" : "Modo DND",
+        "Url" : "../static/assets/Music/Modo DND.mp3",
+        "Img" : "../static/assets/img/Modo DND.jpeg",
+        "Artist" : "Xavi, Tony Aguirre"
+    },
+    {
+        "id" : "40",
+        "Title" : "Rafa Caro",
+        "Url" : "../static/assets/Music/Rafa Caro.mp3",
+        "Img" : "../static/assets/img/Rafa Caro.jpeg",
+        "Artist" : "T3R Elemento"
+    }
+]
