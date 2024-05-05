@@ -3,26 +3,26 @@
         "id" : "1",
         "Title" : "300 Noches",
         "Url" : "../static/assets/Music/300 Noches.mp3",
-        "Img" : "../static/assets/img/300 noches.jpeg",
+        "Img" : "../static/assets/img/300 Noches.jpeg",
         "Artist" : "Natanael Cano, Belinda"
     },
     {
         "id" : "2",
         "Title" : "Y Que",
         "Url" : "../static/assets/Music/Y Que.mp3",
-        "Img" : "../static/assets/img/Y que.jpeg",
+        "Img" : "../static/assets/img/Y Que.jpeg",
         "Artist" : "Natanael Cano"
     },
     {
         "id" : "3",
         "Title" : "Golpes de la Vida",
         "Url" : "../static/assets/Music/Golpes De La Vida.mp3",
-        "Img" : "../static/assets/img/Golpes de la Vida.jpeg",
+        "Img" : "../static/assets/img/Golpes De La Vida.jpeg",
         "Artist" : "Natanael Cano, Ivonne Galaz"
     },
     {
         "id" : "4",
-        "Title" : "Pal amor soy malo",
+        "Title" : "Pal Amor Soy Malo",
         "Url" : "../static/assets/Music/Pal Amor Soy Malo.mp3",
         "Img" : "../static/assets/img/Pal Amor Soy Malo.jpeg",
         "Artist" : "Adrian L Santos, Oscar Maydon"
@@ -38,7 +38,7 @@
         "id" : "6",
         "Title" : "Carlitos",
         "Url" : "../static/assets/Music/Carlitos.mp3",
-        "Img" : "../static/assets/img/A mis 20.jpeg",
+        "Img" : "../static/assets/img/A Mis 20.jpeg",
         "Artist" : "Natanael Cano"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
         "id" : "13",
-        "Title" : "Entre las de 20",
+        "Title" : "Entre Las De 20",
         "Url" : "../static/assets/Music/Entre las de 20.mp3",
-        "Img" : "../static/assets/img/Entre las de 20.jpeg",
+        "Img" : "../static/assets/img/Entre Las De 20.jpeg",
         "Artist" : "Natanael Cano, Bizarrap"
     },
     {
@@ -157,7 +157,7 @@
         "id" : "23",
         "Title" : "Diamantes",
         "Url" : "../static/assets/Music/Diamantes.mp3",
-        "Img" : "../static/assets/img/A mis 20.jpeg",
+        "Img" : "../static/assets/img/A Mis 20.jpeg",
         "Artist" : "Natanael Cano"
     },
     {
