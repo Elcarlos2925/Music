@@ -30,8 +30,8 @@
     {
         "id" : "5",
         "Title" : "Aerolínea Carrillo",
-        "Url" : "../static/assets/Music/Aerolínea Carrillo.mp3",
-        "Img" : "../static/assets/img/Aerolínea Carrillo.jpeg",
+        "Url" : "../static/assets/Music/Aerolinea Carrillo.mp3",
+        "Img" : "../static/assets/img/Aerolinea Carrillo.jpeg",
         "Artist" : "T3R Elemento, Gerardo Ortiz"
     },
     {
@@ -213,7 +213,7 @@
         "id" : "31",
         "Title" : "Ojitos de Miel",
         "Url" : "../static/assets/Music/Ojitos de Miel.mp3",
-        "Img" : "../static/assets/img/Ojitos de Miel.jpeg",
+        "Img" : "../static/assets/img/Ojitos De Miel.jpeg",
         "Artist" : "T3R Elemento"
     },
     {
@@ -240,8 +240,8 @@
     {
         "id" : "35",
         "Title" : "Corazón de Piedra",
-        "Url" : "../static/assets/Music/Corazón de Piedra.mp3",
-        "Img" : "../static/assets/img/Corazón de Piedra.jpeg",
+        "Url" : "../static/assets/Music/Corazon De Piedra.mp3",
+        "Img" : "../static/assets/img/Corazon De Piedra.jpeg",
         "Artist" : "Xavi"
     },
     {
@@ -254,15 +254,15 @@
     {
         "id" : "37",
         "Title" : "La Víctima",
-        "Url" : "../static/assets/Music/La Víctima.mp3",
-        "Img" : "../static/assets/img/La Víctima.jpeg",
+        "Url" : "../static/assets/Music/La Victima.mp3",
+        "Img" : "../static/assets/img/La Victima.jpeg",
         "Artist" : "Xavi"
     },
     {
         "id" : "38",
-        "Title" : "Poco a Poco",
-        "Url" : "../static/assets/Music/Poco a Poco.mp3",
-        "Img" : "../static/assets/img/Poco a Poco.jpeg",
+        "Title" : "Poco A Poco",
+        "Url" : "../static/assets/Music/Poco A Poco.mp3",
+        "Img" : "../static/assets/img/Poco A Poco.jpeg",
         "Artist" : "Xavi, Los Dareyes De La Sierra"
     },
     {
