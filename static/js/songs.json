@@ -31,7 +31,7 @@
         "id" : "5",
         "Title" : "Aerolínea Carrillo",
         "Url" : "../static/assets/Music/Aerolinea Carrillo.mp3",
-        "Img" : "../static/assets/img/Aerolinea Carrillo.jpeg",
+        "Img" : "https://github.com/Elcarlos2925/Music/blob/main/static/assets/img/Aerolinea%20Carrillo.jpeg",
         "Artist" : "T3R Elemento, Gerardo Ortiz"
     },
     {
@@ -73,7 +73,7 @@
         "id" : "11",
         "Title" : "El De Los Lentes Gucci",
         "Url" : "../static/assets/Music/El De Los Lentes Gucci.mp3",
-        "Img" : "../static/assets/img/El De Los Lentes Gucci.jpeg",
+        "Img" : "https://github.com/Elcarlos2925/Music/blob/main/static/assets/img/EL%20De%20Los%20Lentes%20Gucci.jpeg",
         "Artist" : "Natanael Cano"
     },
     {
@@ -213,7 +213,7 @@
         "id" : "31",
         "Title" : "Ojitos de Miel",
         "Url" : "../static/assets/Music/Ojitos de Miel.mp3",
-        "Img" : "../static/assets/img/Ojitos De Miel.jpeg",
+        "Img" : "https://github.com/Elcarlos2925/Music/blob/main/static/assets/img/Ojitos%20De%20Miel.jpeg",
         "Artist" : "T3R Elemento"
     },
     {
@@ -241,7 +241,7 @@
         "id" : "35",
         "Title" : "Corazón de Piedra",
         "Url" : "../static/assets/Music/Corazon De Piedra.mp3",
-        "Img" : "../static/assets/img/Corazon De Piedra.jpeg",
+        "Img" : "https://github.com/Elcarlos2925/Music/blob/main/static/assets/img/Corazon%20De%20Piedra.jpeg",
         "Artist" : "Xavi"
     },
     {
@@ -255,14 +255,14 @@
         "id" : "37",
         "Title" : "La Víctima",
         "Url" : "../static/assets/Music/La Victima.mp3",
-        "Img" : "../static/assets/img/La Victima.jpeg",
+        "Img" : "https://github.com/Elcarlos2925/Music/blob/main/static/assets/img/La%20Victima.jpeg",
         "Artist" : "Xavi"
     },
     {
         "id" : "38",
         "Title" : "Poco A Poco",
         "Url" : "../static/assets/Music/Poco A Poco.mp3",
-        "Img" : "../static/assets/img/Poco A Poco.jpeg",
+        "Img" : "https://github.com/Elcarlos2925/Music/blob/main/static/assets/img/Poco%20A%20Poco.jpeg",
         "Artist" : "Xavi, Los Dareyes De La Sierra"
     },
     {
