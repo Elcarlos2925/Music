@@ -11,14 +11,13 @@
 - Ing. Tecnologías de la Información y Comunicacines
 - Instituto Tecnologico de Tijuana.
 
-## Proyecto 
-### *Music*
+## Proyecto
 <table>
 <tr>
 <td width="100%">
-<h3 align="center" style="color:black;">Algoritmos de Busqueda y ordenamiento Python</h3>
+<h3 align="center" style="color:black;">Reproductor de Musica</h3>
 <div align="center">
-<a href="https://github.com/Elcarlos2925/Music" target="_blank"><img src="https://github.com/Elcarlos2925/Music/blob/main/UI.png?raw=true" width="400" ></a>
+<a href="https://github.com/Elcarlos2925/Music" target="_blank"><img src="https://github.com/Elcarlos2925/Music/blob/main/UI.png?raw=true" width="600" ></a>
 <p>
 <a href="https://github.com/Elcarlos2925/Music" target="_blank">
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black">
