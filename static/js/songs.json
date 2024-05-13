@@ -278,5 +278,68 @@
         "Url" : "../static/assets/Music/Rafa Caro.mp3",
         "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Rafa%20Caro.jpeg?raw=true",
         "Artist" : "T3R Elemento"
+    },
+    {
+        "id" : "41",
+        "Title" : "Ya No Estoy Dolido",
+        "Url" : "../static/assets/Music/Ya No Estoy Dolido.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Ya%20No%20Estoy%20Dolido.jpeg?raw=true",
+        "Artist" : "Adrian L Santos, Joaquin Medina"
+    },
+    {
+        "id" : "42",
+        "Title" : "La Renta",
+        "Url" : "../static/assets/Music/La Renta.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/La%20Renta.jpeg?raw=true",
+        "Artist" : "Adrian L Santos"
+    },
+    {
+        "id" : "43",
+        "Title" : "Elvira",
+        "Url" : "../static/assets/Music/Elvira.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Elvira.jpeg?raw=true",
+        "Artist" : "Gabito Ballesteros, Oscar Maydon, Chino Pacas"
+    },
+    {
+        "id" : "44",
+        "Title" : "Lady Gaga",
+        "Url" : "../static/assets/Music/Lady Gaga.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/La%20People.jpeg?raw=true",
+        "Artist" : "Gabito Ballesteros, Peso Pluma, Junior H"
+    },
+    {
+        "id" : "45",
+        "Title" : "El Boss",
+        "Url" : "../static/assets/Music/El Boss.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/El%20Boss.jpeg?raw=true",
+        "Artist" : "Gabito Ballesteros, Natanael Cano"
+    },
+    {
+        "id" : "46",
+        "Title" : "Cuerno Azulado",
+        "Url" : "../static/assets/Music/Cuerno Azulado.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Mi%20Bello%20Angel.jpeg?raw=true",
+        "Artist" : "Gabito Ballesteros, Natanael Cano"
+    },
+    {
+        "id" : "47",
+        "Title" : "Mas Altas Que Bajadas",
+        "Url" : "../static/assets/Music/Mas Altas Que Bajadas.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Mi%20Bello%20Angel.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "48",
+        "Title" : "Rosa Pastel",
+        "Url" : "../static/assets/Music/Rosa Pastel.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Rosa%20Pastel.jpeg?raw=true",
+        "Artist" : "Peso Pluma"
+    },
+    {
+        "id" : "49",
+        "Title" : "Por Las Noches",
+        "Url" : "../static/assets/Music/Rosa Pastel.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Por%20Las%20Noches.jpeg?raw=true",
+        "Artist" : "Peso Pluma, Nicki Nicole"
     }
 ]
