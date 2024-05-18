@@ -36,7 +36,7 @@ body{
     display: grid;
     place-items: center;
     grid-template-rows: 25% 10% 20% 45%;
-    font-size: 25px;
+    font-size: 25px;                              
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 35px;
     top: 0;
@@ -56,16 +56,7 @@ body{
     color: rgb(255, 0, 0);
     overflow: hidden;
 }
-#progress-song::-webkit-slider-thumb{
-  -webkit-appearance: none;
-  appearance: none;
-  width: 10px;
-  height: 10px;
-  background: #000;
-  box-shadow: -350px 0 0 350px;
-  border-radius: 50%;
-  cursor: pointer;
-}
+
 .controls-media{
     width: 100%;
     display: grid;

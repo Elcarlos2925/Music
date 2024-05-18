@@ -30,20 +30,19 @@ function reload(){
 
     // Aquí puedes usar los datos cargados del archivo JSON para actualizar el contenido de tu página.
     document.getElementById("img").innerHTML = `
-        <img src='${songs[random].Img}' alt='${songs[random].Title}' class='img-song'>
+        <img src='${songs[random].Img}' alt='${songs[random].Title}' class='w-80 rounded-2xl shadow-2xl mb-5 mt-0 ml-0 transition-opacity duration-1000 ease-in-out'>
     `;
     
     document.getElementById("title").innerHTML = `
-        <h1 class='title'>${songs[random].Title}</h1>
+        <h1 class="text-lg font-black">${songs[random].Title}</h1>
     `;
     
     document.getElementById("artist").innerHTML = `
-        <p class='artist'>${songs[random].Artist}</p>
+        <p class="text-xs">${songs[random].Artist}</p>
     `;
 
     let sourceSong = document.getElementById('song');
     sourceSong.src = songs[random].Url;
-   
 
   })
   .catch(error => {
@@ -52,4 +51,3 @@ function reload(){
 }
 
 forward()
-reload()

@@ -1,0 +1,17 @@
+{
+  "name": "music",
+  "version": "2.0",
+  "description": "",
+  "main": "home/index.html",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./src/output.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "Carlos Abraham Lozoya Avalos",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3",
+    "postcss": "^8.4.14",
+    "autoprefixer": "^10.4.7"
+  }
+}
