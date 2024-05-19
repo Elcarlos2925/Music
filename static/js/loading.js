@@ -40,10 +40,9 @@ function reload(){
     document.getElementById("artist").innerHTML = `
         <p class="text-xs">${songs[random].Artist}</p>
     `;
-
     let sourceSong = document.getElementById('song');
     sourceSong.src = songs[random].Url;
-
+    playInterval()
   })
   .catch(error => {
     console.error('Error al cargar el archivo JSON:', error);
