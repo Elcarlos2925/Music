@@ -341,5 +341,96 @@
         "Url" : "../static/assets/Music/Rosa Pastel.mp3",
         "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Por%20Las%20Noches.jpeg?raw=true",
         "Artist" : "Peso Pluma, Nicki Nicole"
+    },                                                                                                  
+    {
+        "id" : "50",
+        "Title" : "Ahora Es Diferente",
+        "Url" : "../static/assets/Music/Ahora Es Diferente.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Y%20Que.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "51",
+        "Title" : "Así Tocó Mi Vida",
+        "Url" : "../static/assets/Music/Asi Toco Mi Vida.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Asi%20Toco%20Mi%20Vida.jpeg?raw=true",
+        "Artist" : "Natanael Cano, Adriel Favela"
+    },
+    {
+        "id" : "52",
+        "Title" : "El Cazador",
+        "Url" : "../static/assets/Music/El Cazador.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/El%20Cazador.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "53",
+        "Title" : "El de la Codeina",
+        "Url" : "../static/assets/Music/El de la Codeina.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Y%20Que.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "54",
+        "Title" : "El Toro Encartado",
+        "Url" : "../static/assets/Music/El Toro Encartado.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Solamente%20Dios.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "55",
+        "Title" : "El F1",
+        "Url" : "../static/assets/Music/F1.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/F1.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "56",
+        "Title" : "Iniciales AL",
+        "Url" : "../static/assets/Music/Iniciales AL.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Y%20Que.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "57",
+        "Title" : "Paso En Culiacan",
+        "Url" : "../static/assets/Music/Paso En Culiacan.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Paso%20En%20Culiacan.jpeg?raw=true",
+        "Artist" : "Natanael Cano, Junior H"
+    },
+    {
+        "id" : "58",
+        "Title" : "PRC",
+        "Url" : "../static/assets/Music/PRC.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/PRC.jpeg?raw=true",
+        "Artist" : "Peso Pluma, Natanael Cano"
+    },
+    {
+        "id" : "59",
+        "Title" : "Proyecto X",
+        "Url" : "../static/assets/Music/Proyecto X.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Proyecto%20X.jpeg?raw=true",
+        "Artist" : "Natanael Cano, Gabito Ballesteros"
+    },
+    {
+        "id" : "60",
+        "Title" : "Soy El Diablo",
+        "Url" : "../static/assets/Music/Soy El Diablo.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Soy%20El%20Diablo.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "61",
+        "Title" : "Tipo Gatsby",
+        "Url" : "../static/assets/Music/Tipo Gatsby.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Elvira.jpeg?raw=true",
+        "Artist" : "Oscar Maydon, Natanael Cano, Gabito Ballesteros"
+    },
+    {
+        "id" : "62",
+        "Title" : "Ya Te Olvide",
+        "Url" : "../static/assets/Music/Ya Te Olvide.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Ya%20Te%20Olvide.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
     }
 ]

@@ -3,11 +3,12 @@ let random
 
 function forward(){
     do{
-        random = Math.floor(Math.random() * 48)
+        random = Math.floor(Math.random() * 62)
     } while (songListened.includes(random))
     songListened.push(random)
     clearSongListened()
     reload()
+    console.log(songListened)
 }
 function backward() {
     if (songListened.length > 1) {
@@ -19,7 +20,7 @@ function backward() {
 }
 
 function clearSongListened(){
-    if (songListened.length >= 48){
+    if (songListened.length >= 62){
         songListened = []
     }
 }
