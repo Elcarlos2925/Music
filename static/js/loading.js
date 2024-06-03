@@ -8,7 +8,6 @@ function forward(){
     songListened.push(random)
     clearSongListened()
     reload()
-    console.log(songListened)
 }
 function backward() {
     if (songListened.length > 1) {
