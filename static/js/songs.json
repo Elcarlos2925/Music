@@ -2,7 +2,7 @@
     {
         "id" : "1",
         "Title" : "300 Noches",
-        "Url" : "../static/assets/Music/300 Noches.mp3",
+        "Url" : "../static/assets/Songs/300 Noches.mp3",
         "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/300%20Noches.jpeg?raw=true",
         "Artist" : "Natanael Cano, Belinda"
     },
