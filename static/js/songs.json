@@ -57,10 +57,10 @@
     },
     {
         "id" : "9",
-        "Title" : "Fuentes De Ortiz",
-        "Url" : "../static/assets/Music/Fuentes De Ortiz.mp3",
-        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Fuentes%20De%20Ortiz.jpeg?raw=true",
-        "Artist" : "Ed Maverick"
+        "Title" : "El Drip",
+        "Url" : "../static/assets/Music/El Drip.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Corridos%20Tumbados.jpeg?raw=true",
+        "Artist" : "Natanael Cano"
     },
     {
         "id" : "10",
@@ -120,10 +120,10 @@
     },
     {
         "id" : "18",
-        "Title" : "Bling Bling",
-        "Url" : "../static/assets/Music/Bling Bling.mp3",
-        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Bling%20Bling.jpeg?raw=true",
-        "Artist" : "Maluma, Octavio Cuadras, Grupo Marca Registrada"
+        "Title" : "El Tsurito",
+        "Url" : "../static/assets/Music/El Tsurito.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/El%20Tsurito.jpeg?raw=true",
+        "Artist" : "Gabito Ballesteros, Peso Pluma, Junior H"
     },
     {
         "id" : "19",
@@ -515,7 +515,7 @@
         "Title" : "LINDA",
         "Url" : "../static/assets/Music/LINDA.mp3",
         "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/LINDA.jpg?raw=true",
-        "Artist" : "TIto Double P, Neton Vega"
+        "Artist" : "Tito Double P, Neton Vega"
     },
     {
         "id" : "75",
@@ -641,6 +641,41 @@
         "Title" : "YCQVM",
         "Url" : "../static/assets/Music/YCQVM.mp3",
         "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/YCQVM.jpg?raw=true",
+        "Artist" : "Nueva H, Natanael Cano"
+    },
+    {
+        "id" : "93",
+        "Title" : "Amor Eterno",
+        "Url" : "../static/assets/Music/Amor Eterno.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Amor%20Eterno.jpg?raw=true",
+        "Artist" : "Natanael Cano"
+    },
+    {
+        "id" : "94",
+        "Title" : "Presidente",
+        "Url" : "../static/assets/Music/Presidente.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Presidente.jpg?raw=true",
+        "Artist" : "Gabito Ballesteros, Natanael Cano, Luis R Conriquez, Neton Vega"
+    },
+    {
+        "id" : "95",
+        "Title" : "Tu Boda",
+        "Url" : "../static/assets/Music/Tu Boda.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Tu%20Boda.jpg?raw=true",
+        "Artist" : "Oscar Maydon, Fuerza Regida"
+    },
+    {
+        "id" : "96",
+        "Title" : "Escapate",
+        "Url" : "../static/assets/Music/Escapate.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/LOS%20CUADROS.jpg?raw=true",
+        "Artist" : "Tito Double P, Chino Pacas"
+    },
+    {
+        "id" : "97",
+        "Title" : "Rubicon",
+        "Url" : "../static/assets/Music/Rubicon.mp3",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/La%20People.jpeg?raw=true",
         "Artist" : "Nueva H, Natanael Cano"
     }
 ]
