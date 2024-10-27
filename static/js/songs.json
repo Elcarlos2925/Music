@@ -647,21 +647,21 @@
         "id" : "93",
         "Title" : "Amor Eterno",
         "Url" : "../static/assets/Music/Amor Eterno.mp3",
-        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Amor%20Eterno.jpg?raw=true",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Amor%20Eterno.jpeg?raw=true",
         "Artist" : "Natanael Cano"
     },
     {
         "id" : "94",
         "Title" : "Presidente",
         "Url" : "../static/assets/Music/Presidente.mp3",
-        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Presidente.jpg?raw=true",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Presidente.jpeg?raw=true",
         "Artist" : "Gabito Ballesteros, Natanael Cano, Luis R Conriquez, Neton Vega"
     },
     {
         "id" : "95",
         "Title" : "Tu Boda",
         "Url" : "../static/assets/Music/Tu Boda.mp3",
-        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Tu%20Boda.jpg?raw=true",
+        "Img" : "https://elcarlos2925.github.io/Music/static/assets/img/Tu%20Boda.jpeg?raw=true",
         "Artist" : "Oscar Maydon, Fuerza Regida"
     },
     {
