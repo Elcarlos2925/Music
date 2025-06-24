@@ -2,10 +2,6 @@
 <h1 align="center" style="color:black;">Hola, soy <span style="color:blue;">Carlos Lozoya</span> 👋</h1>
 </div>
 
-![Static Badge](https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/|-white?style=for-the-badge&logoColor=black&labelColor=white&color=white)
-![GitHub followers](https://img.shields.io/github/followers/Elcarlos2925?style=for-the-badge&logo=GitHub&logoColor=black&labelColor=white&color=white)
-<br>
 
 ## Sobre mi
 - Ing. Tecnologías de la Información y Comunicacines
